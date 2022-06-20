@@ -2272,6 +2272,14 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   -webkit-appearance: none;
   height: 50px;
 }
+.checkout-form .form-group select {
+  border-radius: 0;
+  display: block;
+  padding: 6px 10px 5px 100px;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  height: 50px;
+}
 
 .checkout-form .checkout-country-code .form-group {
   float: left;
