@@ -1412,6 +1412,13 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 .single-product-details .color-swatches .swatch-cream {
   background-color: #e6e2d6;
 }
+.single-product-details .color-swatches .swatch-Oat {
+  background-color: #cbbcb5;
+}
+
+.single-product-details .color-swatches .swatch-Gray {
+  background-color: #464646;
+}
 
 .single-product-details .product-size {
   margin-top: 20px;
